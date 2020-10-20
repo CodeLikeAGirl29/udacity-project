@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <!-- Page content would go here -->
+  </body>
+</html>
+
+ <!DOCTYPE html>
+<head>
+<meta charset="UTF-8" />
+<meta name="HandheldFriendly" content="true">
+<meta name="MobileOptimized" content="width">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Digital Agency for Nonprofits, Foundations and Government">
+<meta name="google-site-verification" content="0UsyzgnazoIACJ_GqmRZcwzSn1q4gMHfkPWxwgGB9VE">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.forumone.com/wp-content/themes/forumone/images/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.forumone.com/wp-content/themes/forumone/images/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.forumone.com/wp-content/themes/forumone/images/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.forumone.com/wp-content/themes/forumone/images/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://www.forumone.com/wp-content/themes/forumone/images/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.forumone.com/wp-content/themes/forumone/images/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.forumone.com/wp-content/themes/forumone/images/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.forumone.com/wp-content/themes/forumone/images/favicons/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="https://www.forumone.com/wp-content/themes/forumone/images/favicons/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="https://www.forumone.com/wp-content/themes/forumone/images/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://www.forumone.com/wp-content/themes/forumone/images/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://www.forumone.com/wp-content/themes/forumone/images/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="https://www.forumone.com/wp-content/themes/forumone/images/favicons/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="Forum One" />
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="https://www.forumone.com/wp-content/themes/forumone/images/favicons/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="https://www.forumone.com/wp-content/themes/forumone/images/favicons/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="https://www.forumone.com/wp-content/themes/forumone/images/favicons/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="https://www.forumone.com/wp-content/themes/forumone/images/favicons/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="https://www.forumone.com/wp-content/themes/forumone/images/favicons/mstile-310x310.png" />
+<script>
+      // Picture element HTML5 shiv
+		document.createElement( "picture" );
+	</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.3/picturefill.js"></script>
+
+<script>
+		!function(f,b,e,v,n,t,s)
+		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)}(window,document,'script',
+		'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '1045269285804189'); 
+		fbq('track', 'PageView');
+	</script>
+<noscript>
+		<img height="1" width="1" 
+		src="https://www.facebook.com/tr?id=1045269285804189&ev=PageView
+		&noscript=1"/>
+	</noscript>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-975176875"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-975176875');
+  </script>
+
+<script>
+  "use strict";
+
+  !function() {
+    var t = window.driftt = window.drift = window.driftt || [];
+    if (!t.init) {
+      if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+      t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+      t.factory = function(e) {
+        return function() {
+          var n = Array.prototype.slice.call(arguments);
+          return n.unshift(e), t.push(n), t;
+        };
+      }, t.methods.forEach(function(e) {
+        t[e] = t.factory(e);
+      }), t.load = function(t) {
+        var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+        o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+        var i = document.getElementsByTagName("script")[0];
+        i.parentNode.insertBefore(o, i);
+      };
+    }
+  }();
+  drift.SNIPPET_VERSION = '0.3.1';
+  drift.load('xri32e4wgr4b');
+  </script>
+
+
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+
+
+<title>What is a Design System? | Forum One</title>
+<meta name="description" content="A design system is a series of components that can be reused in different combinations. Design systems allow you to manage design at scale." />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://www.forumone.com/ideas/what-is-design-system/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="What is a Design System?" />
+<meta property="og:description" content="A design system is a series of components that can be reused in different combinations. Design systems allow you to manage design at scale." />
+<meta property="og:url" content="https://www.forumone.com/ideas/what-is-design-system/" />
+<meta property="og:site_name" content="Forum One" />
+<meta property="article:publisher" content="https://www.facebook.com/forumone" />
+<meta property="article:published_time" content="2020-07-21T11:04:00+00:00" />
+<meta property="article:modified_time" content="2020-07-24T18:36:24+00:00" />
+<meta property="og:image" content="https://www.forumone.com/wp-content/uploads/2018/10/F1BlogsDesignSystem.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="628" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="What is a Design System?" />
+<meta name="twitter:description" content="A design system is a series of components that can be reused in different combinations. Design systems allow you to manage design at scale." />
+<meta name="twitter:image" content="https://www.forumone.com/wp-content/uploads/2018/10/F1BlogsDesignSystem.png" />
+<meta name="twitter:creator" content="@forumone" />
+<meta name="twitter:site" content="@forumone" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.forumone.com/#website","url":"https://www.forumone.com/","name":"Forum One","description":"Digital Agency for Nonprofits, Foundations and Government","potentialAction":[{"@type":"SearchAction","target":"https://www.forumone.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.forumone.com/ideas/what-is-design-system/#primaryimage","inLanguage":"en-US","url":"https://www.forumone.com/wp-content/uploads/2018/10/F1BlogsDesignSystem.png","width":1200,"height":628,"caption":"What Is a Design System?"},{"@type":"WebPage","@id":"https://www.forumone.com/ideas/what-is-design-system/#webpage","url":"https://www.forumone.com/ideas/what-is-design-system/","name":"What is a Design System? | Forum One","isPartOf":{"@id":"https://www.forumone.com/#website"},"primaryImageOfPage":{"@id":"https://www.forumone.com/ideas/what-is-design-system/#primaryimage"},"datePublished":"2020-07-21T11:04:00+00:00","dateModified":"2020-07-24T18:36:24+00:00","author":{"@id":"https://www.forumone.com/#/schema/person/c3e129a61d860007c57bce42a2427aac"},"description":"A design system is a series of components that can be reused in different combinations. Design systems allow you to manage design at scale.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.forumone.com/ideas/what-is-design-system/"]}]},{"@type":["Person"],"@id":"https://www.forumone.com/#/schema/person/c3e129a61d860007c57bce42a2427aac","name":"matt","image":{"@type":"ImageObject","@id":"https://www.forumone.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/41c6186c73c6edd8961f56ab3df9078e?s=96&d=mm&r=g","caption":"matt"}}]}</script>
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Forum One &raquo; Feed" href="https://www.forumone.com/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.forumone.com\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.forumone.com/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css' href='https://www.forumone.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='0.1.0-css' href='https://www.forumone.com/wp-content/plugins/greenhouse-for-wp/assets/css/frontend/styles.css?ver=0.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://www.forumone.com/wp-content/themes/forumone/css/styles.css' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/www.forumone.com\/wp\/wp-admin\/admin-ajax.php","nonce":"40aecc69fe","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"0","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1","coronabarActive":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.forumone.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.forumone.com/wp-content/plugins/greenhouse-for-wp/assets/js/frontend/scripts.js?ver=0.1.0'></script>
+<script type='text/javascript' src='https://www.forumone.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.forumone.com/wp-content/themes/forumone/js/lib/modernizr.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.forumone.com/wp-content/themes/forumone/js/mobile-menu.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.forumone.com/wp-content/themes/forumone/js/scripts.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.forumone.com/wp-content/themes/forumone/js/lib/slick-slider.js?ver=5.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.forumone.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.forumone.com/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.forumone.com/wp/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.4.1" />
+<link rel='shortlink' href='https://www.forumone.com/?p=4151' />
+<link rel="alternate" type="application/json+oembed" href="https://www.forumone.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.forumone.com%2Fideas%2Fwhat-is-design-system%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.forumone.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.forumone.com%2Fideas%2Fwhat-is-design-system%2F&#038;format=xml" />
+
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var dataLayer_content = {"pagePostType":"post","pagePostType2":"single-post","pageCategory":["uncategorized"],"pagePostAuthor":"matt"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NBXXWX');//]]>
+</script>
+
+
+</head>
+
+<body class="post-template-default single single-post postid-4151 single-format-standard cookies-not-set what-is-design-system">
+<div class="skiplinks">
+<a href="#main" class="skiplinks__link visually-hidden focusable">Skip to main content</a>
+</div>
+<aside class="l-sidebar ">
+<aside class="l-sidebar__sidebar is-open">
+<div class="nav-drawer is-open">
+<div class="l-navigation">
+<div class="l-constrain">
+<ul class="menu menu--main">
+<li class="menu__item menu-item menu-item-type-post_type menu-item-object-page menu-item-2427">
+<a class="menu__link" href="https://www.forumone.com/our-story/">Our Story</a>
+</li>
+<li class="menu__item menu-item menu-item-type-post_type menu-item-object-page menu-item-3129">
+<a class="menu__link" href="https://www.forumone.com/approach/">Approach</a>
+</li>
+<li class="menu__item menu-item menu-item-type-custom menu-item-object-custom menu-item-3127">
+<a class="menu__link" href="/work/">Work</a>
+</li>
+<li class="menu__item menu-item menu-item-type-post_type menu-item-object-page menu-item-2429">
+<a class="menu__link" href="https://www.forumone.com/team/">Team</a>
+</li>
+<li class="menu__item menu-item menu-item-type-post_type menu-item-object-page menu-item-2430">
+<a class="menu__link" href="https://www.forumone.com/careers/">Careers</a>
+</li>
+<li class="menu__item menu-item menu-item-type-custom menu-item-object-custom menu-item-3128">
+<a class="menu__link" href="/events/">Events</a>
+</li>
+<li class="menu__item menu-item menu-item-type-post_type_archive menu-item-object-whitepaper menu-item-6594">
+<a class="menu__link" href="https://www.forumone.com/ideas/">Ideas</a>
+</li>
+<li class="menu__item menu-item menu-item-type-post_type menu-item-object-page menu-item-2425">
+<a class="menu__link" href="https://www.forumone.com/contact/">Contact</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div> </aside>
+<div class="l-sidebar__main sidebar-open">
+<header class="l-header" role="banner">
+<a class="site-name site-name--main" href="https://www.forumone.com" title="Home" rel="home">
+<div class="site-name__text">Forum One</div>
+</a>
+</header>
+<main id="main" class="main" role="main" tabindex="-1">
+<div class="l-preface">
+<div class="l-constrain">
+</div>
+</div>
+
+<div class="l-grid--page">
+<div class="l-grid__c2-c4">
+<div class="page-title">
+<div class="l-grid--vertical-text">
+<div class="l-grid__cell l-grid__cell--vtext">
+<div class="l-vertical-text">
+<h6 class="page-title__eyebrow">Blog</h6>
+</div>
+</div>
+<div class="l-grid__cell l-grid__cell--htext">
+<h1 class="page-title__title">What is a Design System?</h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="l-grid--page">
+<div class="l-grid__c3 border-bottom">
+<div class="author ">
+<div class="l-grid l-grid--1col">
+<div class="staff-teaser staff-teaser--small">
+<div class="staff-teaser__content">
+<h4><a href="https://www.forumone.com/team/courtney-clark/">Courtney Clark</a></h4>
+<span>Vice President, Design, Forum One</span>
+</div>
+</div> </div>
+</div>
+</div>
+<aside class="l-grid__c5 border-bottom">
+<div class="sidebar-meta ">
+July 21, 2020
+<div class="addthis">
+<div class="addthis_toolbox">
+<a class="addthis_button_facebook"><span class="addthis__icon addthis__icon--facebook">Facebook</span></a>
+<a class="addthis_button_twitter"><span class="addthis__icon addthis__icon--twitter">Twitter</span></a>
+<a class="addthis_button_linkedin"><span class="addthis__icon addthis__icon--linkedin">LinkedIn</span></a>
+</div>
+</div>
+</div> </aside>
+</div>
+<div class="l-grid--page">
+<div class="l-grid__c3 ">
+<p>A design system is a series of components that can be reused in different combinations. Design systems allow you to manage design at scale.</p>
+<p><a href="https://en.wikipedia.org/wiki/Systems_design" target="_blank" rel="noreferrer noopener">Systems design</a> is not new.&nbsp; What’s new is how we apply it to our work. The design systems that I’m talking about here are specific to digital products — websites, applications, etc. And they touch people who work on digital design, user experience, interaction design, and front end development. Here are a few analogous examples:</p>
+<h5>Example 1: LEGO</h5>
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/62nA5tq9HoCk0W8uXHqVgLgrUbuTp6rBSXpqvO7Utr_v6gADS5nUMhnGbdq9VMBmPmN_SW6nur6IUNEqf13QTM6IYyVRkdKHhOGGfIDOkq-9jKyYaYXkaKKSj--BXIZn3EFjqJY" alt="What is a Design System? lego" /><figcaption>Image Source: <a href="https://www.lego.com/en-us/aboutus/events/annual-result-2015#/play-brick-combinations">LEGO Annual Report</a></figcaption></figure>
+<p>Question: How many ways can you combine six 2&#215;4 LEGO® bricks of the same colour?</p>
+<p>Answer: 915,103,765 different ways!&nbsp;</p>
+<p>A basic set of LEGOs will likely include a standard brick, plate, stud, tile, etc. And you probably have a few different colors for each block. When we build a design system, we’re designing the LEGO bricks that you can reuse, build a variety of structures, and voila! They all look like they’re part of the same design family.&nbsp;</p>
+<h5>Example 2: Taco Bell&nbsp;</h5>
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/srwRwZAUxVZaR-bG0RXgNSThg_1indC31Dp1jP2jwrAsWi74DAhG8Sy5E2lv7UeeoejJg7zVJurn7EHXkTC9_kSfdoEEARTJAyStLeLhKogVc3EHGbMphmn1iI8HWTzBT7onq7s" alt="What is a Design System? taco bell" /><figcaption>Image Source: <a href="https://www.tacobell.com/how-to-avoid-gluten">Taco Bell</a></figcaption></figure>
+<p>Taco Bell has about eight ingredients and yet, they have about 50 items on their menu. And guess what? They’re just mixing and matching those same eight ingredients in different ways. With these eight ingredients, you can make a taco, a quesadilla, or a [insert your favorite late night Taco Bell treat]! Same idea applies: this is a (food) design system.&nbsp;</p>
+<h3>Wait a minute — are you sure it’s called a “design system”?</h3>
+<p>Well, it goes by many names. Brad Frost calls it <a href="http://atomicdesign.bradfrost.com/" target="_blank" rel="noreferrer noopener">atomic design</a>. AirBNB calls it <a href="https://airbnb.design/building-a-visual-language/" target="_blank" rel="noreferrer noopener">design language</a>. The industry is still circling around the preferred name. Other titles include:</p>
+<ul><li>Pattern library</li><li>Modular design</li><li>Component design</li><li>Design language</li><li>User interface library</li></ul>
+<p>Sure, there are nuances to all of these, but they’re basically doing the same thing: creating a series of design components for you and your team to reuse. Sometimes, you’ll even find elements of a design system in a style or brand guide.</p>
+<h3>Why should you use a design system?</h3>
+<h5>1) Design systems can save you time and money!</h5>
+<p>While it might feel like you’re adding on another layer, design systems can actually help you increase your efficiency. To better understand how this applies to you, consider these questions:</p>
+<ol><li><strong>Scale</strong> &#8211; Are you designing a product (or products) that has more than 300 screens? Will your product(s) grow significantly?</li><li><strong>Consistency</strong> &#8211; Do you want your products to have consistent branding, look and feel, and experience? Does your product currently have 20 different button styles?</li><li><strong>Efficiency</strong> &#8211; Do you want your visual designers, user experience designers, and front end developers to work faster and save time?</li><li><strong>Teamwork</strong> &#8211; Do you have projects where there’s a lot of handoff between designers or many designers work on the same project at once?</li></ol>
+<p>If you answered “Yes!” to even one of the above questions, then a design system is probably right for you. Working at scale, and increasing consistency and efficiency are the biggest benefits to creating and using a design system.</p>
+<figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/kE42JpzSnL00T7MoUFebaeH1phFvKco015Ew14JgZmJNTEHIMbVDGbkXY6mgH-fEsSg0C8SvV0mF5bTBW5leWMn4J-ix_lap6CmmxlaeobpIWk1NECECrwCXdmztt8a1oN5ccaM" alt="graph" /></figure>
+<p>In addition, because you’re reusing components in your design system, the time you spend <em>creating</em> will level off over time. At that point, your designers and front end developers can fine-tune existing products, add <a rel="noreferrer noopener" href="https://uxmastery.com/formula-delight/" target="_blank">delight</a> to the experience, or focus on other projects!&nbsp;</p>
+<h5>2) Design systems help designers and developers work better together!</h5>
+<p>Design systems force designers to systematize their work, to think in components. Front end developers are already doing this. They’ve <em>been</em> doing this. When design teams create design systems, suddenly they start thinking like their developer teammates and speaking the same language.&nbsp;</p>
+<p>So what? Well, as you can imagine when teammates start speaking the same language and solving problems together, a lot more work gets done. And faster! Welcome to the well-oiled machine.&nbsp;</p>
+<h5>3) Design systems are the <s>future</s> now!</h5>
+<p>John Maeda and his team produce the <a href="https://designintechreport.wordpress.com/" target="_blank" rel="noreferrer noopener">Design In Tech Report</a> every year, which I highly recommend taking a look at. In 2017, the <a href="https://twitter.com/inkv/status/841696334025441285" target="_blank" rel="noreferrer noopener">email he sent out announcing the report release</a> made one final point:&nbsp;</p>
+<p>“When a technology matures, design moves to the foreground because the underlying machinery has been commoditized.”</p>
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/x6qR-71aorf-7o7kdjeG9ND0xkY0THD66zsl-k1M-5nVPm3j2DSV5AuBg8WhHH6ruxZIr9cIp34GF4t0t3zv1IiS-AhRCZYqZ8LQks0EtGYQtDPL28VUA2L4YDP9sy4trm6Ll98" alt="quote" /></figure>
+<p>Maeda went on to say, “We’re living in an era where there’s massive design debt all over the tech industry,” and outlined four ways to solve the issue:</p>
+<ol><li>Overhaul the design education system to be relevant to tech.</li><li>“Scale” a company’s design function through better managing/leading of designers and <strong>shareable design systems.</strong></li><li>Make new kinds of tools that enable computational designers to be <strong>faster and capable of handling larger scopes</strong> of influence.</li><li>Achieve a level of machine intelligence that subsumes the majority of rote design tasks.</li></ol>
+<p>In case you missed it, the second point includes scaling design through shareable <strong>design systems</strong>! (Are you sold yet?!)&nbsp;</p>
+<p>In 2020, this is still true. We know there’s still design debt, outside of the tech industry too. We know that people experience many of the channels in your digital ecosystem, sometimes all in one sitting. They move quickly between your social media, web properties, email newsletters, apps, etc. Unfortunately many organizations struggle to manage design across messy digital ecosystems, and that leads to brand inconsistency and fractured experiences. <strong>Design systems continue to be relevant and necessary to create the excellent user and brand experience your audience&#8217;s demand. </strong></p>
+<h3>Do you have any examples of design systems?</h3>
+<p>Why yes, I do!</p>
+<h5>Commercial Design Systems</h5>
+<ul><li><a rel="noreferrer noopener" href="https://designsystem.quickbooks.com/" target="_blank">Quickbooks Design System</a></li><li><a rel="noreferrer noopener" href="https://www.bbc.co.uk/gel" target="_blank">GEL &#8211; Global Experience Language</a> from BBC</li><li><a rel="noreferrer noopener" href="https://material.io/guidelines/#" target="_blank">Material</a> from Google</li><li><a rel="noreferrer noopener" href="https://www.lightningdesignsystem.com/" target="_blank">Lightning</a> from Salesforce</li><li><a rel="noreferrer noopener" href="https://airbnb.design/building-a-visual-language/" target="_blank">Airbnb&#8217;s Visual Language</a></li><li><a rel="noreferrer noopener" href="https://uxdesign.cc/selling-a-design-system-before-asking-for-buy-in-eeb45e88f66a" target="_blank">Joystick</a> from EA</li><li><a rel="noreferrer noopener" href="https://fluent.microsoft.com/" target="_blank">Fluent</a> from Microsoft</li><li><a rel="noreferrer noopener" href="https://medium.com/@andrewcouldwell/plasma-design-system-4d63fb6c1afc" target="_blank">Plasma</a> from WeWork</li><li><a href="https://polaris.shopify.com/" target="_blank" rel="noreferrer noopener">Polaris</a> from Shopify</li><li><a href="http://rizzo.lonelyplanet.com/styleguide/design-elements/colours" target="_blank" rel="noreferrer noopener">Lonely Planet</a></li><li><a href="https://meetup.github.io/swarm-design-system/" target="_blank" rel="noreferrer noopener">Swarm</a> from Meetup</li><li><a href="https://canvas.hubspot.com/" target="_blank" rel="noreferrer noopener">Canvas</a> from Hubspot</li></ul>
+<h5>Government Design Systems</h5>
+<ul><li><a href="https://standards.usa.gov/" target="_blank" rel="noreferrer noopener">U.S. Web Design Standards</a></li><li><a href="https://uspto.github.io/designpatterns/index.html" target="_blank" rel="noreferrer noopener">USPTO UI Design Library</a></li><li><a href="https://usajobs.github.io/design-system/" target="_blank" rel="noreferrer noopener">USA Jobs Design System</a></li><li><a href="http://beta.template.webtools.ca.gov/sample/" target="_blank" rel="noreferrer noopener">State of California</a></li><li><a href="http://style.bristol.gov.uk/" target="_blank" rel="noreferrer noopener">Bristol City Council</a></li><li><a href="https://cityofphiladelphia.github.io/patterns/" target="_blank" rel="noreferrer noopener">City of Philadelphia</a></li><li><a href="https://designsystem.gov.au/" target="_blank" rel="noreferrer noopener">Australian Government</a></li></ul>
+<h5>Design System Catalogues</h5>
+<ul><li><a rel="noreferrer noopener" href="https://adele.uxpin.com/" target="_blank">Adele</a> &#8211; 100+ designs systems catalogued and categorized. This list is incredibly helpful if you’re looking for something specific. They’ve noted which designs systems have accessibility guidelines, voice and tone, icons, color naming and more.&nbsp; This was put together by UXPin.&nbsp;</li><li><a href="https://designsystemsrepo.com/design-systems-recent" target="_blank" rel="noreferrer noopener">Design Systems Repo</a> &#8211; 50+ design systems, style guides, and pattern libraries.&nbsp;</li></ul>
+<p><a href="https://www.forumone.com/work/">Forum One</a> has created dozens of design systems for our clients. It’s the smart thing to do and it serves them best in the long run. We’re passionate about design systems and we hope you are too. If you have any thoughts or questions, please don’t hesitate to reach out! We’d love to hear your stories about how you implemented a design system or the challenges you’re facing. Happy designing!</p>
+</div>
+<aside class="l-grid__c5 ">
+
+</aside>
+</div>
+
+<div class="l-grid--page">
+<div class="l-grid__c3 ">
+<div class="author author--fancy">
+<span class="author__eyebrow">Written By</span>
+<div class="staff-teaser author--fancy">
+<div class="staff-teaser__content">
+<h4><a href="https://www.forumone.com/team/courtney-clark/">Courtney Clark</a></h4>
+<span>Vice President, Design, Forum One</span>
+</div>
+</div> </div> </div>
+<aside class="l-grid__c5 ">
+</aside>
+</div>
+<div class="pardot-form ">
+<h2 class="pardot-form__title">Are you ready to create a design system for your organization?</h2>
+<p class="pardot-form__text"><p>Forum One creates a design system for nearly every design project we work on, so if you’re interested, let&#8217;s talk!</p>
+</p>
+<form autocomplete="off" accept-charset="UTF-8" method="post" action="http://go.forumone.com/l/71122/2017-09-15/5m7rfp" class="form" id="pardot-form">
+<input type="text" name="prevent_autofill" id="prevent_autofill" value="" style="display:none;" />
+<input type="text" name="prevent_autofill2" id="prevent_autofill2" value="" style="display:none;" />
+<input type="text" name="prevent_autofill3" id="prevent_autofill3" value="" style="display:none;" />
+<input type="text" name="prevent_autofill4" id="prevent_autofill4" value="" style="display:none;" />
+<input type="text" name="prevent_autofill5" id="prevent_autofill5" value="" style="display:none;" />
+<input type="text" name="prevent_autofill6" id="prevent_autofill6" value="" style="display:none;" />
+<input type="text" name="prevent_autofill7" id="prevent_autofill7" value="" style="display:none;" />
+<div class="l-grid l-grid--2col">
+<div class="form-item is-full-width form-item--textfield js-hide-label">
+<label class="form-item__label" for="first_name">First Name</label>
+<input type="text" required placeholder="First Name" autocapitalize="off" autocorrect="off" name="first_name" id="first_name" maxlength="128" class="form-item__text" autocomplete="no">
+</div>
+<div class="form-item is-full-width form-item--textfield js-hide-label">
+<label class="form-item__label" for="last_name">Last Name</label>
+<input type="text" required placeholder="Last Name" autocapitalize="off" autocorrect="off" name="last_name" id="last_name" maxlength="128" class="form-item__text" autocomplete="no">
+</div>
+<div class="form-item is-full-width form-item--textfield js-hide-label">
+<label class="form-item__label" for="edit-textfield">Email address</label>
+<input type="email" required placeholder="Email address" autocapitalize="off" autocorrect="off" name="email" id="email" maxlength="128" class="form-item__text" autocomplete="no">
+</div>
+</div>
+<div style="position:absolute; left:-9999px; top: -9999px;">
+<label for="pardot_extra_field">Comments</label>
+<input type="text" id="pardot_extra_field" name="pardot_extra_field">
+</div>
+<p class="submit">
+<input type="submit" accesskey="s" class="pardot-form__submit arrow-link arrow-link--red arrow-link arrow-link--font-style-sans-serif arrow-link--text-color-grey arrow-link--size-small" value="Submit">
+</p>
+</form>
+</div>
+<script type=“text/javascript”>
+      piAId = ‘72122’;
+      piCId = ‘1312’;
+      piHostname = ‘pi.pardot.com’;
+      (function() {
+      function async_load(){
+      var s = document.createElement(‘script’); s.type = ‘text/javascript’;
+      s.src = (‘https:’ == document.location.protocol ? ‘https://pi’ : ‘http://cdn’) + ‘.pardot.com/pd.js’;
+      var c = document.getElementsByTagName(‘script’)[0]; c.parentNode.insertBefore(s, c);
+      }
+      if(window.attachEvent) { window.attachEvent(‘onload’, async_load); }
+      else { window.addEventListener(‘load’, async_load, false); }
+      })();
+    </script>
+<div class="l-postscript">
+<div class="l-constrain">
+</div>
+</div> </main>
+
+<footer class="l-footer" role="contentinfo">
+<div class="l-constrain">
+<div class="l-footer__content">
+<div class="l-footer__left">
+<a class="site-name site-name--white" href="" title="Home" rel="home">
+<div class="site-name__text"></div>
+</a>
+<div class="footer-locations">
+<ul class="locations">
+<li class="location">Washington, DC</li>
+<li class="location">Alexandria, VA</li>
+<li class="location">Seattle, WA</li>
+</ul>
+</div> </div>
+<div class="l-footer__center">
+<ul class="menu menu--footer">
+<li class="menu__item menu-item menu-item-type-post_type menu-item-object-page menu-item-2419">
+<a class="menu__link" href="https://www.forumone.com/our-story/">About</a>
+</li>
+<li class="menu__item menu-item menu-item-type-post_type menu-item-object-services menu-item-9361">
+<a class="menu__link" href="https://www.forumone.com/services/government-services/">Government</a>
+</li>
+<li class="menu__item menu-item menu-item-type-post_type_archive menu-item-object-whitepaper menu-item-6593">
+<a class="menu__link" href="https://www.forumone.com/ideas/">Ideas</a>
+</li>
+<li class="menu__item menu-item menu-item-type-custom menu-item-object-custom menu-item-3130">
+<a class="menu__link" href="/events">Events</a>
+</li>
+<li class="menu__item menu-item menu-item-type-post_type menu-item-object-services menu-item-10288">
+<a class="menu__link" href="https://www.forumone.com/services/our-dei-commitment/">DEI</a>
+</li>
+<li class="menu__item menu-item menu-item-type-post_type menu-item-object-page menu-item-2437">
+<a class="menu__link" href="https://www.forumone.com/careers/">Careers</a>
+</li>
+<li class="menu__item menu-item menu-item-type-post_type menu-item-object-page menu-item-2438">
+<a class="menu__link" href="https://www.forumone.com/contact/">Contact</a>
+</li>
+</ul>
+</div>
+<div class="l-footer__right">
+<ul class="menu menu--social">
+<li class="menu__item menu__item--twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-2420">
+<a class="menu__link" href="https://twitter.com/forumone">Twitter</a>
+</li>
+<li class="menu__item menu__item--facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-2421">
+<a class="menu__link" href="https://www.facebook.com/forumone">Facebook</a>
+</li>
+<li class="menu__item menu__item--linkedin menu-item menu-item-type-custom menu-item-object-custom menu-item-2422">
+<a class="menu__link" href="https://www.linkedin.com/company/forum-one">LinkedIn</a>
+</li>
+<li class="menu__item menu__item--instagram menu-item menu-item-type-custom menu-item-object-custom menu-item-2423">
+<a class="menu__link" href="https://www.instagram.com/forum_one/">Instagram</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="l-footer__bottom">
+<div class="l-constrain">
+<div class="l-grid l-grid--2col">
+<div class="l-footer__gsa">
+<a href="/services/government-contracting">
+<img src="/wp-content/themes/forumone/images/logo-gsa.svg" alt="GSA" />
+</a>
+</div>
+<div class="l-footer__copyright">
+<div class="copyright">
+&copy; 2020 Forum One <span class="copyright-sep">|</span> All rights reserved <span class="copyright-sep">|</span>
+</div> <ul class="menu menu--copyright">
+<li class="menu__item menu-item menu-item-type-post_type menu-item-object-page menu-item-2783">
+<a class="menu__link" href="https://www.forumone.com/privacy/">Privacy</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NBXXWX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type='text/javascript' src='https://www.forumone.com/wp-content/themes/forumone/js/homepage-slider.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.forumone.com/wp/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+
+<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(46,52,56,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button button button--small" aria-label="Ok">Ok</a><a href="https://www.forumone.com/privacy/" target="_self" id="cn-more-info" class="cn-more-info cn-button button button--small" aria-label="Privacy policy">Privacy policy</a></span><a href="javascript:void(0);" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" aria-label="Ok"></a></div>
+</div>
+
+</div>
+<script type=“text/javascript”>
+      piAId = ‘72122’;
+      piCId = ‘1312’;
+      piHostname = ‘pi.pardot.com’;
+      (function() {
+      function async_load(){
+      var s = document.createElement(‘script’); s.type = ‘text/javascript’;
+      s.src = (‘https:’ == document.location.protocol ? ‘https://pi’ : ‘http://cdn’) + ‘.pardot.com/pd.js’;
+      var c = document.getElementsByTagName(‘script’)[0]; c.parentNode.insertBefore(s, c);
+      }
+      if(window.attachEvent) { window.attachEvent(‘onload’, async_load); }
+      else { window.addEventListener(‘load’, async_load, false); }
+      })();
+    </script>
+</body>
+</html>
